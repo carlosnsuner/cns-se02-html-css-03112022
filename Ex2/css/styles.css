@@ -1,0 +1,14 @@
+body{
+background-color: brown;
+
+}
+.titulo{
+    font-family: fantasy;
+    color: chocolate;
+}
+
+.parrafo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2em;
+    color: blue;
+}
