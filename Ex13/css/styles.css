@@ -1,0 +1,32 @@
+
+table{
+    width: 98vw;
+    border: 3px; 
+    border-collapse: collapse; 
+    box-shadow: 10em;
+    border-style: outset;
+    
+}
+tr, td, th {
+    border: 2px solid rgb(161, 161, 161);
+    border-collapse: collapse;
+    border-color: rgb(216, 213, 213);
+    
+}
+#celda01{
+    text-align: center;
+    background-color: rgb(127, 255, 202);
+}
+#celda02{
+    background-color: rgb(127, 214, 255);
+    
+}
+#celda03-05-08{
+    text-align: center;
+    color: crimson;
+}
+#celda06{
+    text-align: right;
+    vertical-align: bottom;
+    background-color: mediumorchid;
+}
