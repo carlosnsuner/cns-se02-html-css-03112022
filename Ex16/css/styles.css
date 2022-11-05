@@ -1,0 +1,30 @@
+table{
+    width: 70vw;
+    margin: auto;
+    border: 7px groove #d0dad0;
+    
+}
+tr, td, th {
+    border: 1px solid rgb(161, 161, 161);
+    border-collapse: collapse;
+    text-align: center;
+    color:chocolate
+}
+#titulo{
+    color: chocolate;
+    text-align: center;
+    background-color: rgb(97, 224, 97);
+}
+#titulo2{
+    color: chocolate;
+    text-align: center;
+    background-color: rgb(245, 194, 160);
+}
+#titulo3{
+    color: chocolate;
+    text-align: center;
+    background-color: rgb(248, 211, 108);
+}
+#fondo{
+    background: url("../img/fondohuellas.jpg");
+}
