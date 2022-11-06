@@ -1,0 +1,216 @@
+
+#general{
+
+    position: absolute;
+ 
+   
+    width: 900px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+
+    border-color: #dbd5d5;
+    border-style: solid;
+    
+}
+
+.image{
+    text-align: center;
+}
+
+.botones-principal{
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.botones{
+    padding-left: 20px;
+}
+
+#contenido{
+    display : flex;
+    flex-direction : row;
+}
+
+#contenido-enlaces{
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+
+}
+
+#contenido-texto{
+
+    background-image: linear-gradient(
+        0deg,
+        hsl(0deg 0% 90%) 0%,
+        hsl(0deg 0% 93%) 11%,
+        hsl(0deg 0% 96%) 22%,
+        hsl(0deg 0% 99%) 32%,
+        hsl(0deg 0% 100%) 42%,
+        hsl(0deg 0% 100%) 52%,
+        hsl(0deg 0% 100%) 62%,
+        hsl(0deg 0% 99%) 72%,
+        hsl(0deg 0% 98%) 82%,
+        hsl(0deg 0% 96%) 91%,
+        hsl(0deg 0% 95%) 100%
+      );
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    border-color: #dbd5d5;
+    border-width: 2px;
+    border-style: solid;
+
+
+}
+
+#titulo01{
+
+    color: rgb(28, 180, 28);
+    text-align: center;
+
+}
+span{
+    color: rgb(214, 167, 81);
+}
+
+#titulo02{
+
+    color: rgb(41, 228, 41);
+    
+}
+#titulo03{
+    color: rgb(199, 161, 110);
+}
+
+.boton01{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:40px;
+    padding-right:40px;
+    background-image: linear-gradient(
+        0deg,
+        hsl(33deg 44% 81%) 0%,
+        hsl(33deg 43% 84%) 8%,
+        hsl(32deg 43% 86%) 20%,
+        hsl(32deg 42% 89%) 32%,
+        hsl(32deg 42% 91%) 46%,
+        hsl(32deg 41% 93%) 60%,
+        hsl(32deg 41% 96%) 74%,
+        hsl(31deg 40% 98%) 88%,
+        hsl(0deg 0% 100%) 100%
+      );
+    
+}
+.boton02{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:29px;
+    background-image: linear-gradient(
+  0deg,
+  hsl(78deg 43% 79%) 0%,
+  hsl(79deg 42% 82%) 8%,
+  hsl(79deg 41% 85%) 20%,
+  hsl(79deg 41% 88%) 32%,
+  hsl(79deg 40% 90%) 46%,
+  hsl(79deg 40% 93%) 60%,
+  hsl(79deg 39% 95%) 74%,
+  hsl(80deg 39% 98%) 88%,
+  hsl(0deg 0% 100%) 100%
+);
+    
+      
+}
+.boton03{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:27px;
+    background-image: linear-gradient(
+        0deg,
+        hsl(78deg 43% 79%) 0%,
+        hsl(79deg 42% 82%) 8%,
+        hsl(79deg 41% 85%) 20%,
+        hsl(79deg 41% 88%) 32%,
+        hsl(79deg 40% 90%) 46%,
+        hsl(79deg 40% 93%) 60%,
+        hsl(79deg 39% 95%) 74%,
+        hsl(80deg 39% 98%) 88%,
+        hsl(0deg 0% 100%) 100%
+      );
+   
+    
+    
+}
+.boton04{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:40px;
+    background-image: linear-gradient(
+        0deg,
+        hsl(78deg 43% 79%) 0%,
+        hsl(79deg 42% 82%) 8%,
+        hsl(79deg 41% 85%) 20%,
+        hsl(79deg 41% 88%) 32%,
+        hsl(79deg 40% 90%) 46%,
+        hsl(79deg 40% 93%) 60%,
+        hsl(79deg 39% 95%) 74%,
+        hsl(80deg 39% 98%) 88%,
+        hsl(0deg 0% 100%) 100%
+      );
+    
+}
+
+#licencia{
+text-align: center;
+color:lightslategray;
+font-style: italic;
+}
+
+a:hover {
+    color: orange;
+  }
