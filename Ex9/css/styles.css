@@ -1,0 +1,143 @@
+
+
+#general{
+
+    position: absolute;
+ 
+   
+    width: 900px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+    border-top-width: 15px;
+    border-right-width: 15px;
+    border-bottom-width: 15px;
+    border-left-width: 15px;
+
+    border-color: #dbd5d5;
+    border-style: solid;
+}
+
+.botones-principal{
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.botones{
+    padding-left: 20px;
+}
+
+#contenido{
+    display : flex;
+    flex-direction : row;
+}
+
+#contenido-enlaces{
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+
+}
+
+#contenido-texto{
+
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+
+    
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+
+    border-color: #dbd5d5;
+    border-width: 2px;
+    border-style: solid;
+
+
+}
+
+#titulo01{
+
+    color: rgb(28, 180, 28);
+    text-align: center;
+
+}
+span{
+    color: rgb(214, 167, 81);
+}
+
+#titulo02{
+
+    color: rgb(41, 228, 41);
+    
+}
+#titulo03{
+    color: rgb(199, 161, 110);
+}
+
+.boton01{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#f2ce59;
+    
+}
+.boton02{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:29px;
+    background-color:#d6f259;
+    
+      
+}
+.boton03{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:27px;
+    background-color:#d6f259;
+   
+    
+    
+}
+.boton04{
+
+    text-decoration:none;
+    text-align: center;
+    font-weight: 400;
+    font-size: 20px;
+    color:#000000;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:28px;
+    padding-right:40px;
+    background-color:#d6f259;
+    
+}
