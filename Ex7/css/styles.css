@@ -1,11 +1,14 @@
 
 #general{
      
+    /*Crear margenes de la capa general */
     margin-top: 50px;
     margin-right: 50px;
     margin-bottom: 50px;
     margin-left: 50px;
     
+    /*Crear bordes de la capa general */
+
     border-top-width: 8px;
     border-right-width: 8px;
     border-bottom-width: 15px;

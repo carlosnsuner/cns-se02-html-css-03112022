@@ -4,8 +4,9 @@
 
     position: absolute;
  
-   
-    width: 900px;
+   /* ancho máximo definio */
+    width: 900px; 
+
     margin-top: 50px;
     margin-right: 50px;
     margin-bottom: 50px;
@@ -35,6 +36,8 @@
 }
 
 #contenido-enlaces{
+
+    /* centrado de los enlaces */
     margin-top: 20px;
     margin-left: 0px;
     margin-right: 5px;
@@ -43,6 +46,8 @@
 }
 
 #contenido-texto{
+
+    /* centrado del texto */
 
     margin-top: 20px;
     margin-left: 20px;
@@ -84,6 +89,8 @@ span{
 
 .boton01{
 
+    /* definimos las características de los "botones" en CSS */
+
     text-decoration:none;
     text-align: center;
     font-weight: 400;
@@ -97,6 +104,8 @@ span{
     
 }
 .boton02{
+
+      /* definimos las características de los "botones" en CSS */
 
     text-decoration:none;
     text-align: center;
@@ -112,6 +121,8 @@ span{
       
 }
 .boton03{
+
+      /* definimos las características de los "botones" en CSS */
 
     text-decoration:none;
     text-align: center;
@@ -129,6 +140,9 @@ span{
 }
 .boton04{
 
+
+      /* definimos las características de los "botones" en CSS */
+      
     text-decoration:none;
     text-align: center;
     font-weight: 400;

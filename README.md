@@ -1,9 +1,7 @@
 
-![logoUrbalab](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/Ex1/img/logo-urbalab-web.png) ![logoUrbalab](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/Ex1/img/geekshubs.jpg)
+## Bootcamp Progración Frontend Angular en [Urbalab](https://www.urbalabgandia.com/es/inicio/) [con GeeksHubs](https://geekshubsacademy.com/)
 
 ***
-
-## Bootcamp Progración Frontend Angular en [Urbalab](https://www.urbalabgandia.com/es/inicio/) [con GeeksHubs](https://geekshubsacademy.com/)
 
 ### Semana 02 - (Retos HTML5/CSS3) - Ejercicios 1-10
 
