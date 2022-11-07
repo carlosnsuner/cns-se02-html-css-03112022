@@ -1,0 +1,74 @@
+
+#container{
+    background-image: url("../img/ac.jpg");
+    height: 80vh;
+    background-position: center;
+    margin-top: 50px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    margin-left: 200px;
+    
+
+}
+table{
+    margin: 0 auto;
+    border-spacing: 20px 40px;
+}
+td{
+    width: 80px;
+    height: 80px;
+}
+
+#fondo01{
+    background: url("../img/back_mantel.jpg");
+    text-align: center;
+}
+#fondo02{
+    background: url("../img/back_mantel.jpg");
+    text-align: center;
+}
+#fondo03{
+    background: url("../img/back_mantel.jpg");
+    text-align: center;
+}
+#fondo04{
+    background: url("../img/back_mantel.jpg");
+    text-align: center;
+}
+#fondo05{
+    background: url("../img/dh.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    
+}
+#fondo06{
+    background: url("../img/dh.jpg");
+    background-size: cover;
+    text-align: center;
+    background-position: unset;
+}
+#fondo07{
+    background: url("../img/dh_2.jpg");
+    text-align: center;
+}
+#fondo08{
+    background: url("../img/dh_3.jpg");
+    text-align: center;
+}
+#fondo09{
+    background-color: darkolivegreen;
+    text-align: center;
+}
+#fondo10{
+    background-color:rgb(207, 132, 71);
+    text-align: center;
+}
+#fondo11{
+    background-color:cadetblue;
+    text-align: center;
+}
+#fondo12{
+    background-color: darkgoldenrod;
+    text-align: center;
+}

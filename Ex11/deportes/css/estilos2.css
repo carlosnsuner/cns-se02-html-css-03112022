@@ -1,0 +1,23 @@
+table {
+    border: 3px; 
+    border-collapse: collapse; 
+    box-shadow: 10em;
+    border-style: outset;
+    
+}
+tr, td, th{
+     border: 1px solid rgb(93, 185, 121);
+    
+}
+
+#titulo{
+    background-color: rgb(105, 121, 82);
+    
+}
+#fila01{
+    background-color: aquamarine;
+    height: 5px;
+  }
+  #fila02{
+    background-color: rgb(92, 156, 135);
+}

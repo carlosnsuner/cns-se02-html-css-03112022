@@ -1,0 +1,17 @@
+#titular{
+    margin-bottom: 3px;
+}
+#titulo{
+    margin-left: 50px;
+}
+#periodico{
+    padding-left: 30px;
+}
+#letras{
+    list-style-type: lower-latin;
+    margin-left: 50px;
+}
+#numeros-romanos{
+    list-style-type: upper-roman;
+    margin-left: 50px;
+}
