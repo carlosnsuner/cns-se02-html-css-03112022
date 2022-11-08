@@ -16,15 +16,12 @@
     justify-content: center;
     padding-top: 100px;
     
-  
-    
 }
 
 table{
     margin: 0 auto;
     border-spacing: 20px 40px;
 }
-
 
 #superior{
    
@@ -35,7 +32,6 @@ table{
     text-align: center;
 }
 #superior01{
-
    
     background-image: url("../img/back_mantel.jpg");
     width: 80px;
@@ -52,15 +48,7 @@ table{
     width: 80px;
     height: 80px;
     margin: 20px;
-/* 
-    background-color: white;
-    width: 80px;
-    height: 80px;
-    margin: 20px;
 
-    display: flex;
-    align-items:center;
-    text-align: justify; */
 }
 
 #superior03{
@@ -85,6 +73,7 @@ table{
     
  
 }
+/* clases para posicionar imagenes */
 .superior02{
     
     width: 60px;
@@ -92,6 +81,8 @@ table{
     padding: 10px;
    
 }
+
+/* clases para posicionar imagenes */
 .superior04{
     
     width: 60px;
@@ -160,6 +151,7 @@ table{
     
    
 }
+/* clases para posicionar imagenes */
 .medio02{
     
     width: 60px;
@@ -167,11 +159,11 @@ table{
     padding: 10px;
    
 }
+/* clases para posicionar imagenes */
 .medio03{
     
     width: 80px;
     height: 40px;
-    /* padding: 10px; */
    
 }
 .medio04{
@@ -216,7 +208,6 @@ table{
     margin: 20px;
 
 }
-
 #inferior04{
     
     /* Generado con CSS Gradient */
