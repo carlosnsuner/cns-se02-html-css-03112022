@@ -8,10 +8,12 @@
     padding-left: 30px;
 }
 #letras{
+    /* Sustituir número por letras */
     list-style-type: lower-latin;
     margin-left: 50px;
 }
 #numeros-romanos{
+    /* Sustituir número por números romanos */
     list-style-type: upper-roman;
     margin-left: 50px;
 }
