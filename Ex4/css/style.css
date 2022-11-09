@@ -4,6 +4,7 @@ body {
 .titulo-ppal{
   background-color: blueviolet;
 }
+/* Eliminación de los puntos en la lista */
 ul {
   list-style: none;
   /* padding: 0; */
