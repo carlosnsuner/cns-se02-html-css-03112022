@@ -205,6 +205,37 @@ table{
     width: 80px;
     height: 80px;
     margin: 20px;  
+<<<<<<< HEAD
+=======
+}
+
+#inferior02{
+    
+    /* Generado con CSS Gradient */
+    background: linear-gradient(0deg, rgba(34,183,185,1) 40%, rgba(89,208,209,1) 45%, rgba(250,250,250,1) 100%);
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+}
+
+#inferior03{
+    
+   
+    background: -webkit-linear-gradient(top, rgb(255, 232, 21), rgb(175, 144, 4));  
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+
+}
+
+#inferior04{
+    
+    /* Generado con CSS Gradient */
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,160,45,0) 100%);
+    width: 80px;
+    height: 80px;
+    margin: 20px;
+>>>>>>> a537381e8ff21297873fbb8346517143c19fe562
 }
 
 #inferior02{
@@ -233,3 +264,4 @@ table{
     height: 80px;
     margin: 20px;
 }
+
