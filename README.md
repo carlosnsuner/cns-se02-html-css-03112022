@@ -144,3 +144,14 @@ Crea el código html necesario para generar la siguiente página web.
 Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
 
 ![Ejemplo20](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio20.PNG)
+
+***
+
+**Autor ✒️:**
+
+Carlos Navarro Suñer.
+https://www.linkedin.com/in/carlosnsuner/
+
+**Licencia 📄**
+
+Este proyecto está bajo la Licencia (MIT License) - mira el archivo [LICENSE](https://github.com/carlosnsuner/cns-se02-html-css-03112022/blob/master/LICENSE) para detalles
