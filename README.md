@@ -87,9 +87,60 @@ que crear esas imágenes.
 
 ![Ejemplo10](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/Ex10/img/ejercicio10.PNG)
 
+***
 
+* **Ejercicio 11:**
 
+1. Crear el documento donde.htm, en la carpeta deportes.
+2. Modificar la página para colocar la lista de centros en una tabla como esta:
 
+![Ejemplo11](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio11.PNG)
 
+3. Rectificar la tabla para que las celdas de la primera fila sean títulos de columna guardar
+en el documento donde2.htm.
+4. Guardar los cambios y comprobar el funcionamiento en un navegador.
 
+* **Ejercicio 12:**
 
+1. Crear el documento instalaciones.htm en la carpeta deportes.
+
+2. Crear la tabla que aparece para dejarla así:
+
+![Ejemplo12](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio12.PNG)
+
+* **Ejercicio 13:**
+
+![Ejemplo13](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio13.PNG)
+
+* **Ejercicio 14:**
+
+![Ejemplo14](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio14.PNG)
+
+* **Ejercicio 15:**
+
+![Ejemplo15](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio15.PNG)
+
+* **Ejercicio 16:**
+
+En el documento que has abierto vamos a crear la siguiente tabla:
+
+![Ejemplo16](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio16.PNG)
+
+* **Ejercicio 17:**
+
+Crea el código html necesario para generar la siguiente página web.
+
+![Ejemplo17](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio17.PNG)
+
+* **Ejercicio 18:**
+
+![Ejemplo18](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio18.PNG)
+
+* **Ejercicio 19:**
+
+![Ejemplo19](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio19.PNG)
+
+* **Ejercicio 20:**
+Debes crear una página web que tenga el mismo aspecto que la siguiente imagen:
+
+![Ejemplo20](https://github.com/carlosnsuner/cns-se02-html-css-03112022/raw/master/img/ejercicio20.PNG)
