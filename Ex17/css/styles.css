@@ -43,7 +43,7 @@ table{
 
 #superior02{
     
-    background-image: url("../img/back_mantel.jpg");
+  background-color: white;
     background-size: 10% 10%;
     width: 80px;
     height: 80px;
@@ -58,6 +58,7 @@ table{
     width: 80px;
     height: 80px;
     margin: 20px;
+
 }
 
 #superior04{
@@ -69,13 +70,14 @@ table{
 
     display: flex;
     align-items:center;
-    text-align: justify;
+    
     
  
 }
 /* clases para posicionar imagenes */
 .superior02{
-    
+
+    background-color: white;
     width: 60px;
     height: 60px;
     padding: 10px;
@@ -90,13 +92,29 @@ table{
     padding: 10px;
    
 }
+.superior02-01{
+
+    background-image: url("../img/back_mantel.jpg");
+    background-size: 20% 20%;
+    
+    background-position: center;
+    width: 60px;
+    height: 60px; 
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 20px;
+    
+    
+   
+}
 #medio{
   
     height: 80px;
     display: flex;
     justify-content: center;
-    margin: 10px;
     text-align: center;
+    margin: 10px;
+    
 }
 
 #medio01{
@@ -104,7 +122,6 @@ table{
     background-image: url("../img/dh.jpg");
     background-size: cover; 
     background-position: center;
-    
     width: 80px;
     height: 80px;
     margin: 20px;
